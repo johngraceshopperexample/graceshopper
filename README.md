@@ -1,3 +1,3 @@
 # graceshopper
 
-This is a great project.
+This is a great project indeed.
